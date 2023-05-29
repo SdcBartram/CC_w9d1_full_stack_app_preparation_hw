@@ -2,10 +2,11 @@
 
 # Homework: Full Stack Games Hub App
 
-## Questions
+
 
 <img src="/dataflow_diagram.jpg">
 
+## Questions
 
 1. What is responsible for defining the routes of the games resource?
 The gamesRouter.js file is responsible for defining the routes of the games resource.
