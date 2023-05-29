@@ -3,7 +3,7 @@
 
 ## Questions
 
-<img src="/Users/bartram/codeclan_work/week_09/day_1/hw_full_stack_app_preparation/games_app/HW fullstack prep/dataflow_diagram.jpg">
+<img src="/dataflow_diagram.jpg">
 
 
 1. What is responsible for defining the routes of the games resource?
